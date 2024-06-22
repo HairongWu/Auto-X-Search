@@ -14,9 +14,9 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: 'Perplexica - Chat with the internet',
+  title: 'Auto-X Search',
   description:
-    'Perplexica is an AI powered chatbot that is connected to the internet.',
+    'Auto-X Search is an AI powered search engine that is connected to local or internet resources.',
 };
 
 export default function RootLayout({

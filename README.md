@@ -21,7 +21,8 @@
 ## Non-Docker Installation
 1. Clone the repository and rename the sample.config.toml file to config.toml in the root directory. Ensure you complete all required fields in this file.
 2. Rename the .env.example file to .env in the ui folder and fill in all necessary fields.
-3. After populating the configuration and environment files, run 'npm i' in both the ui folder and the root directory.
-4. Install the dependencies and then execute 'npm run build' in both the ui folder and the root directory.
-5. Finally, start both the frontend and the backend by running 'npm run start' in both the ui folder and the root directory.
+3. Run 'npm install sharp --ignore-scripts'
+4. After populating the configuration and environment files, run 'npm i' in both the ui folder and the root directory.
+5. Install the dependencies and then execute 'npm run build' in both the ui folder and the root directory.
+6. Finally, start both the frontend and the backend by running 'npm run start' in both the ui folder and the root directory.
 
